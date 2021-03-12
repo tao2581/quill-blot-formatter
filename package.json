@@ -33,7 +33,7 @@
     "deepmerge": "^2.0.0"
   },
   "peerDependencies": {
-    "quill": "^1.3.4"
+    "quill": "http://gitlab+deploy-token-4:JuCyeAbqQbBzaTHA_9cr@git.testbay.cn/testbay/quill.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
